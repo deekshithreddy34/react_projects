@@ -1,0 +1,25 @@
+
+.heading-container{
+   display: flex;
+   padding: 3px;
+   margin: 15px;
+   
+   
+}
+
+.heading{
+  padding:5px;
+  border: solid black 1px;
+  font-size: x-large;
+  cursor: pointer;
+}
+
+.tab-body{
+  display: flex;
+   border: solid black 1px;
+   padding: 8px ;
+   margin: 22px;
+   height: 300px;
+   text-align: center;
+   font-size: x-large;
+}
