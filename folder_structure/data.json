@@ -1,0 +1,82 @@
+[
+  {
+    "name": "public",
+    "isFolder": true,
+    "children": [
+      {
+        "name": "index.html",
+        "isFolder": false
+      },
+      {
+        "name": "favicon.ico",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "name": "components",
+        "isFolder": true,
+        "children": [
+          {
+            "name": "Header.jsx",
+            "isFolder": false
+          },
+          {
+            "name": "Sidebar.jsx",
+            "isFolder": false
+          },
+          {
+            "name": "FileExplorer.jsx",
+            "isFolder": false
+          }
+        ]
+      },
+      {
+        "name": "pages",
+        "isFolder": true,
+        "children": [
+          {
+            "name": "Home.jsx",
+            "isFolder": false
+          },
+          {
+            "name": "About.jsx",
+            "isFolder": false
+          }
+        ]
+      },
+      {
+        "name": "App.jsx",
+        "isFolder": false
+      },
+      {
+        "name": "App.css",
+        "isFolder": false
+      },
+      {
+        "name": "index.js",
+        "isFolder": false
+      },
+      {
+        "name": "data.json",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "name": "package.json",
+    "isFolder": false
+  },
+  {
+    "name": "README.md",
+    "isFolder": false
+  },
+  {
+    "name": "vite.config.js",
+    "isFolder": false
+  }
+]
